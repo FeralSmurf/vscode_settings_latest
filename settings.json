@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "NotoSansM Nerd Font Mono",
+    "vim.useSystemClipboard": true,
+}
